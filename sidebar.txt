@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ask:home|Door43 (ask)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ask|d43-ask repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ask/archive/master.zip|d43-ask.zip]]
+
+**Recent Changes**
+{{changes>ns = ask}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ask|Ethnologue data]]
+
